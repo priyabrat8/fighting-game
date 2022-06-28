@@ -6,7 +6,7 @@
 .game_container {
   position: relative;
   display: inline-block;
-  margin-left: 110px;
+  /* margin-left: 110px; */
 }
 
 .health_container {
@@ -81,4 +81,22 @@
   right: 0;
   bottom: 0;
   left: 0;
+}
+
+.instruction {
+  display: inline;
+}
+
+.instruction a {
+  text-decoration: none;
+}
+
+.instruction h4 {
+  color: red;
+
+}
+
+.instruction a :hover {
+  color: rgb(209, 85, 85);
+  text-decoration: underline;
 }
