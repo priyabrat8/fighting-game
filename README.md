@@ -1,7 +1,7 @@
 # Fighting Game - Multi Player Game
 
 ## Instruction for player 1(Left side player)
-Jump - 'w'
+Jump - 'w' \n
 RunLeft - 'a'
 RunRight - 'd'
 Attack - 'Space'
