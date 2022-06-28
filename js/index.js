@@ -248,6 +248,7 @@ window.addEventListener("keydown", (e) => {
         player.attack();
         break;
     }
+  }
 
     if (!enemy.death) {
       switch (e.key) {
@@ -270,7 +271,7 @@ window.addEventListener("keydown", (e) => {
           break;
       }
     }
-  }
+  
 });
 
 window.addEventListener("keyup", (e) => {
